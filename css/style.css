@@ -34,6 +34,11 @@ header a .logo {
   float: left;
 }
 
+.logo{
+  height: 40px;
+  margin-top: 20px;
+}
+
 header nav {
   float: right;
 }

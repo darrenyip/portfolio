@@ -390,7 +390,7 @@
             var darkLogo = logo.data("dark");
             if (top < 150) {
                 scrollTopArea.css('display', 'none');
-                logo.attr("src", "images/logoWhite.png");
+                logo.attr("src", "images/white.png");
                 headerText.css('color', '#fff');
                 header.css({
                     'background': 'transparent',
